@@ -1,0 +1,6 @@
+C:\Users\Jafar\Documents\GitHub\aesTestingEnvironment\aesTestingEnvironment\bin\Debug\aesTestingEnvironment.exe.config
+C:\Users\Jafar\Documents\GitHub\aesTestingEnvironment\aesTestingEnvironment\bin\Debug\aesTestingEnvironment.exe
+C:\Users\Jafar\Documents\GitHub\aesTestingEnvironment\aesTestingEnvironment\bin\Debug\aesTestingEnvironment.pdb
+C:\Users\Jafar\Documents\GitHub\aesTestingEnvironment\aesTestingEnvironment\obj\Debug\aesTestingEnvironment.csprojResolveAssemblyReference.cache
+C:\Users\Jafar\Documents\GitHub\aesTestingEnvironment\aesTestingEnvironment\obj\Debug\aesTestingEnvironment.exe
+C:\Users\Jafar\Documents\GitHub\aesTestingEnvironment\aesTestingEnvironment\obj\Debug\aesTestingEnvironment.pdb
